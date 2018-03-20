@@ -1,18 +1,18 @@
 {
   "semantics":[
     {
-      "label":"Label",
-      "description":"Label/heading for answer when user exports all answers"
+      "label":"Ετικέτα",
+      "description":"Ετικέτα/επικεφαλίδα απάντησης όταν ο χρήστης κάνει εξαγωγή όλων των απαντήσεων"
     },
     {
       
     },
     {
-      "label":"Export not supported label",
-      "default":"Export not supported on your device"
+      "label":"Ετικέτα μη υποστηριζόμενης εξαγωγής",
+      "default":"Η συσκευή σας δεν υποστηρίζει την εξαγωγή"
     },
     {
-      "label":"Include comments in the exported document"
+      "label":"Να συμπεριλαμβάνονται τα σχόλια στο εξαγώγιμο αρχείο"
     }
   ]
 }
